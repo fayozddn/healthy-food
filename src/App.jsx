@@ -503,7 +503,7 @@ export function App() {
             <Button
               variant="gradient"
               size="lg"
-              className="bg-orange hover:text-orange border border-transparent hover:border-orange hover:bg-transparent font-normal duration-300"
+              className="bg-orange hover:text-orange border border-transparent hover:border-orange hover:bg-transparent font-normal duration-300 rounded-l-none"
             >
               Send
             </Button>

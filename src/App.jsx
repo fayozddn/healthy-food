@@ -498,7 +498,7 @@ export function App() {
             <input
               type="text"
               placeholder="Enter your message"
-              className="bg-white rounded-lg px-10 py-3"
+              className="bg-white rounded-l-lg px-5 md:px-10 py-3"
             />
             <Button
               variant="gradient"
